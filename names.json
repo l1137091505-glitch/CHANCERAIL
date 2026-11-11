@@ -1,0 +1,9 @@
+{
+  "selected": "CHANCERAIL",
+  "searched": [
+    { "query": "\"ChanceRail\" prize draw", "result": "No matching draw product found in web search on 2026-11-11." },
+    { "query": "\"Drawloom\" blockchain prize draw", "result": "Existing software project found; name rejected." },
+    { "query": "\"Roundmint\" prize draw", "result": "Existing business references found; name rejected." }
+  ],
+  "note": "Practical name collision check only; not trademark clearance."
+}
